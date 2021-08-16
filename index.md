@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome go to georgeyucjr's Blog.
 
-You can use the [editor on GitHub](https://github.com/georgeyu123/georgeyucjr.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+georgeyu123's is georgeyucjr's blog!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+georgeyucjr English name is george yu, is a Chinese.
 
-### Markdown
+I'm a Vegetable Chicken! - (Chinglish)!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My zhihu(https://www.zhihu.com/people/georgeyucjr) account: georgeyucjr
 
-```markdown
-Syntax highlighted code block
+My CSDN(https://blog.csdn.net/weixin_49892730) account: georgeyucjr
 
-# Header 1
-## Header 2
-### Header 3
+My Microsoft account: George Yu
 
-- Bulleted
-- List
+My mail(https://www.163.com) : georgeyucjr@163.com
 
-1. Numbered
-2. List
+I am a OIer, but is very weak, very very very weak.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/georgeyu123/georgeyucjr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If there is any mistake, the big guys must point it out.
